@@ -1,4 +1,4 @@
-# 🇸🇱 SL-GOVCHAT — Sierra Leone Government Digital Services Hub
+# SL-GOVCHAT — Sierra Leone Government Digital Services Hub
 
 A modern, full-stack web platform that provides Sierra Leonean citizens with easy access to government information, services, and real-time AI-powered assistance. Built with **React + Vite** on the frontend and **Express + SQLite** on the backend.
 
@@ -147,16 +147,6 @@ The optimized output will be in the `dist/` directory.
 | `GET /api/analytics` | Retrieve analytics data |
 
 > All CRUD routes support `GET`, `POST`, `PUT`, and `DELETE` where applicable. Authentication is required for write operations.
-
----
-
-## 🔐 Default Credentials
-
-After seeding, you can log in with:
-
-| Role | Email | Password |
-|---|---|---|
-| Admin | `admin@govchat.sl` | `admin123` |
 
 ---
 
